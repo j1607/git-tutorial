@@ -7,6 +7,8 @@
       print("Fizz\n")
       else if i % 5 == 0
       print("Buzz\n")
+      else if i % 7 == 0
+      print("git\n")
       else
       print("%d\n", i)
    end
